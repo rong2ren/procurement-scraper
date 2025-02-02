@@ -84,6 +84,8 @@ poetry env info
 poetry env info --path
 
 
+
+
 # list all the virtual env associate with this project
 poetry env list
 poetry env list --full-path
